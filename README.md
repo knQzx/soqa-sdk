@@ -1,8 +1,5 @@
 # soqa-sdk
 
-<p align="center">
-  <img src="https://i.ibb.co/Kjpt5QWd/2025-06-14-21-32-03.jpg" alt="SOQA Logo" width="120"/>
-</p>
 
 <p align="center">
   <b>Ultra-fast, unified market data for HFT & algo-traders — powered by Rust ⚡</b>
