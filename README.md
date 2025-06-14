@@ -1,7 +1,7 @@
 # soqa-sdk
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/soqaio/brand/main/logo.svg" alt="SOQA Logo" width="120"/>
+  <img src="https://i.ibb.co/Kjpt5QWd/2025-06-14-21-32-03.jpg" alt="SOQA Logo" width="120"/>
 </p>
 
 <p align="center">
